@@ -1,0 +1,13 @@
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.exe
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.deps.json
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.runtimeconfig.json
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.runtimeconfig.dev.json
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.dll
+C:\Users\Sona Patel\source\repos\OOP_concept\bin\Debug\netcoreapp3.1\OOP_concept.pdb
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.csprojAssemblyReference.cache
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.AssemblyInfoInputs.cache
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.AssemblyInfo.cs
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.csproj.CoreCompileInputs.cache
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.dll
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.pdb
+C:\Users\Sona Patel\source\repos\OOP_concept\obj\Debug\netcoreapp3.1\OOP_concept.genruntimeconfig.cache
